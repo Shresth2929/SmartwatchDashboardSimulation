@@ -36,51 +36,6 @@ To create a **web-based smartwatch simulation interface** that:
 
 ---
 
-## 🖥️ Live Demo
-
-> _Coming soon!_ Deploy this project via GitHub Pages or Vercel.
-
----
-
-## 📂 Folder Structure
-
-```
-📦 smartwatch-dashboard
- ┣ 📄 index.html
- ┣ 📄 script.js
- ┣ 📄 style.css
- ┣ 📄 README.md
-```
-
----
-
-## 🚀 Getting Started
-
-To get a local copy up and running:
-
-### Prerequisites
-- A modern web browser (Chrome, Firefox, Edge)
-- (Optional) Google Fit API credentials for real integration
-
-### Run Locally
-
-```bash
-git clone https://github.com/your-username/smartwatch-dashboard.git
-cd smartwatch-dashboard
-```
-
-Then open `index.html` in your browser.
-
----
-
-## 🔗 API Usage (Optional)
-
-For full Google Fit API integration:
-1. Set up OAuth consent screen and credentials in [Google Cloud Console](https://console.cloud.google.com/).
-2. Replace the mock function `fetchTotalStepsForToday()` with actual API calls.
-3. Handle user authentication and token refreshing securely.
-
----
 
 ## 🧠 Learning Outcomes
 
@@ -89,20 +44,12 @@ For full Google Fit API integration:
 - Simulating real-world systems like battery level management
 - Conceptual understanding of working with 3rd-party APIs
 
----
-
-## 📸 Screenshots
-
-> Add screenshots or GIFs here for better visual appeal.
 
 ---
 
 ## ✍️ Author
 
-- **[Your Name]** – _Frontend Developer & Tech Enthusiast_
+- **Shresth Veer Singh** – _Frontend Developer & Tech Enthusiast_
 
 ---
 
-## 📝 License
-
-This project is licensed under the MIT License.
